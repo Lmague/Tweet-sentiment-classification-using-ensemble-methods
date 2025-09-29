@@ -1,6 +1,6 @@
 # Analyse de sentiments de tweet avec l'aide de différents algorithmes.
 
-Afin de mieux lire ce fichier. Je conseille de l'ouvrir dans un editeur qui supporte les fichier .md comme obsidian ou VSCode (Ctrl+Shift+V sur Windows/Linux et Cmd+Shift+V sur MacOS)
+Afin de mieux lire ce fichier si vous n'êtes pas sur github, je conseille de l'ouvrir dans un editeur qui supporte les fichier .md comme obsidian ou VSCode (Ctrl+Shift+V sur Windows/Linux et Cmd+Shift+V sur MacOS)
 
 ## 1 - Présentation du projet, des algorithmes et des scores utilisés
 
